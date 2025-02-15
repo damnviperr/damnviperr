@@ -1,0 +1,30 @@
+<html>
+<body>
+    <br>
+    <center>
+        <font face=impact size="6">
+    <h1>-          DAMNVIPERR2025          -</h1>
+    </center>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center>
+    <img src="c:\Users\suppo\Desktop\damnviperr.jpg" width="300">
+    </center>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center>
+        <font face=impact size="6">
+        @OFFICIAL9MICE
+    </center>
+    <br>
+    <center>
+        <font face=impact size="6">
+        DAMN VIPERR
+    </center>
+</body>
